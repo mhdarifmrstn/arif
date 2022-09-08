@@ -1,0 +1,3 @@
+- new - adding new file or account 
+- update - update file or account info
+- delete - delete file or account info
